@@ -51,6 +51,7 @@ nav ul li a{
 	color: #1B94A5;
 	font-family: adobe caslon pro;
 	text-decoration: none;
+	padding:4px;
 }
 nav ul li:last-child a{
  	margin-right: 4px;
